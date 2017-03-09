@@ -1,0 +1,13 @@
+com.gsma.services.rcs
+com.gsma.services.rcs.capability
+com.gsma.services.rcs.chat
+com.gsma.services.rcs.contact
+com.gsma.services.rcs.extension
+com.gsma.services.rcs.filetransfer
+com.gsma.services.rcs.groupdelivery
+com.gsma.services.rcs.history
+com.gsma.services.rcs.sharing.geoloc
+com.gsma.services.rcs.sharing.image
+com.gsma.services.rcs.sharing.video
+com.gsma.services.rcs.upload
+
